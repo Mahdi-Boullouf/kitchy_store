@@ -2,7 +2,7 @@
 
 class ApiConstants {
   // Base URL of your Laravel API
-  static const String baseUrl = "http://127.0.0.1:8000/api";
+  static const String baseUrl = "https://kitchydz.com/kitchy-api/api";
 
   // Auth endpoints
   static const String register = "$baseUrl/auth/register";
